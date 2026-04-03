@@ -1,7 +1,7 @@
 ---
 title: Claude Code 源码泄露事件
-published: 2026-04-03
-description: Anthropic 真的比 OpenAI 更开源...
+published: 2026-04-02
+description: Anthropic 难道真的比 OpenAI 更开源...
 tags: [News, Claude Code]
 category: 技术
 draft: false
@@ -13,5 +13,4 @@ draft: false
 
 这么低级的错误，都让人怀疑是不是故意的...这就是 Anthropic 的开源精神嘛。
 
-这次泄露的是客户端的源码，没有服务端的模型训练代码，有时间去学习一下。正好最近准备 AI HACK，需要实现一个简单的 AI 应用。
-
+这次泄露的是客户端的源码，没有服务端的模型训练代码，最近正在准备 AI HACK，有时间去学习一下。
