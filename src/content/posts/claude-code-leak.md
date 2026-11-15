@@ -1,8 +1,8 @@
 ---
-title: Claude Code 源码泄露事件
+title: Claude Code 源码泄露
 published: 2026-04-02
-description: Anthropic 难道真的比 OpenAI 更开源...
-tags: [News, Claude Code]
+description: Anthropic 难道真的比 OpenAI 更开源？
+tags: ["新闻", "Claude Code"]
 category: 技术
 draft: false
 ---

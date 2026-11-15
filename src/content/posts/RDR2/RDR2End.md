@@ -1,7 +1,7 @@
 ---
 title: R.I.P. Arthur Morgan
 published: 2026-06-20
-tags: ["RDR2", "Arthur Morgan", "End of an Era"]
+tags: ["RDR2"]
 category: 杂谈
 draft: false
 ---
